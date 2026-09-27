@@ -13,7 +13,9 @@
   <img src="https://img.shields.io/badge/Java-20D9C3?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
----
+<p align="center">
+  <img src="./11.png" width="300">
+</p>
 
 computer engineering student ・ AI & computer vision ・ software development
 
