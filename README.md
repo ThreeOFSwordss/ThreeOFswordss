@@ -150,15 +150,16 @@ Other
     └── Databases
     └── Git / GitHub
 ```
+
 ---
 
 ### 🚧 building
 
-Currently expanding from university and academic projects
+Currently expanding from university and academic projects  
 toward larger real-world software projects.
 
-The next direction is building complete applications,
-learning modern web development, and combining software
+The next direction is building complete applications,  
+learning modern web development, and combining software  
 engineering with AI and computer vision.
 
 ---
